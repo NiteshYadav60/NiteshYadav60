@@ -19,7 +19,7 @@ I'm a **Computer Engineering student (BCT)** at **Lalitpur Engineering College**
 
 **Areas of Knowledge**
 - Artificial Intelligence & Machine Learning
-- Data Structures & Algorithms (Basic)
+- Data Structures & Algorithms
 - Object-Oriented Programming & OOAD
 - Software Engineering & System Design
 - Microprocessors & Embedded Systems
