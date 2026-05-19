@@ -5,7 +5,7 @@ I'm a **Computer Engineering student (BCT)** at **Lalitpur Engineering College**
 
 ##  About Me
 
-- tudying **Bachelor in Computer Engineering (BCT)** at Lalitpur Engineering College, TU
+- Studying **Bachelor in Computer Engineering (BCT)** at Lalitpur Engineering College, TU
 - Currently exploring **AI/ML, Python, and System Design**
 - Looking for an **internship opportunity** to grow and contribute
 - Based in **Gwarko, Lalitpur, Nepal**
